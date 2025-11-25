@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 # S.S. Madhavan<br> 
-Entrepreneur | Open Source Contributor | AI/ML Enthusiast<br>
+Aspiring Entrepreneur | Open Source Contributor | AI/ML Enthusiast<br>
 <br>I’m an aspiring entrepreneur and open-source enthusiast passionate about web development, app development, cybersecurity, and AI/ML. As a dedicated student, I’m driven by curiosity and a commitment to continuous learning, building a strong foundation across AI, data science, and cloud technologies. I love collaborating, experimenting, and creating solutions that push me to grow while contributing back to the community.
 
 
